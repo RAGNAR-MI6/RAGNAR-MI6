@@ -1,6 +1,6 @@
 ### Hey, I'm RAGNAR (Rushikesh)
 
-Software Developer @ QuantaSIP Geomatic Informative Solutions (React, Python, Java). I build data-heavy apps and ML-infused workflows that move metrics.
+<!-- Software Developer @ QuantaSIP Geomatic Informative Solutions (React, Python, Java). I build data-heavy apps and ML-infused workflows that move metrics. -->
 
 <!-- Profile views -->
 
