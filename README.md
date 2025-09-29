@@ -56,4 +56,4 @@ Software Developer @ QuantaSIP Geomatic Informative Solutions (React, Python, Ja
 
 - 📍 Pune, India
 - ✉️ rushikeshpatil2100@gmail.com
-- 🔗 Add your LinkedIn/website here
+- 🔗 www.linkedin.com/in/rushikesh-k-patil
