@@ -57,3 +57,4 @@
 - 📍 Pune, India
 - ✉️ rushikeshpatil2100@gmail.com
 - 🔗 www.linkedin.com/in/rushikesh-k-patil
+- 👤 https://rushikeshkpatil.netlify.app
