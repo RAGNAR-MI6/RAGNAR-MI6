@@ -41,7 +41,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAGNAR-MI6&show_icons=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGNAR-MI6&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=RAGNAR-MI6)
+
 
 <!-- Optional: Activity graph (comment in if you want it) -->
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGNAR-MI6&area=true) -->
